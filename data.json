@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "wuhuaqing",
+      "email": "wuhuaqing@gmail.com",
+      "age": 30
+    },
+    {
+      "name": "Harry Poter",
+      "email": "harry@email.com",
+      "age": 20,
+      "id": "0pTGBPD"
+    }
+  ]
+}
